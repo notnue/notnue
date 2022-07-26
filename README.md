@@ -9,6 +9,8 @@ My name is Neelesh Patel. I'm active cybersecurity student who spends his spear 
    linkedin: https://www.linkedin.com/in/user-neeleshpatel <br>
    TryHackMe: https://tryhackme.com/p/cyberbreath <br>
    Medium: https://trysec.medium.com <br>
+   
+   **Proabably by OSINT or SOCMINT or Dorks or Shodan or ..**
     
 
 - ⚡ Fun fact: forgive my hairs if that really counts!
