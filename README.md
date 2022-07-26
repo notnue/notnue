@@ -1,16 +1,14 @@
-### Hi there 👋
+###  Thanks for stumbling upon my small stake of the Internet; I'm happy you're here.
 
-<!--
-**notnue/notnue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
 
-Here are some ideas to get you started:
+My name is Neelesh Patel. I'm active cybersecurity student who spends his spear time to recon security rabbit holes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find Me
+
+    linkedin: **https://www.linkedin.com/in/user-neeleshpatel**
+    TryHackMe: https://tryhackme.com/p/cyberbreath**
+    Medium: https://trysec.medium.com
+    
+
+- ⚡ Fun fact: forgive my hairs if that really counts!
