@@ -6,8 +6,8 @@ My name is Neelesh Patel. I'm active cybersecurity student who spends his spear 
 
 ### Find Me
 
-    linkedin: **https://www.linkedin.com/in/user-neeleshpatel**
-    TryHackMe: https://tryhackme.com/p/cyberbreath**
+    linkedin: https://www.linkedin.com/in/user-neeleshpatel
+    TryHackMe: https://tryhackme.com/p/cyberbreath
     Medium: https://trysec.medium.com
     
 
