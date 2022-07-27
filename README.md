@@ -2,7 +2,7 @@
 
 ### About me
 
-My name is Neelesh Patel. I'm active cybersecurity student who spends his spear time to recon security rabbit holes.
+My name is Neelesh Patel. I'm active cybersecurity student who engages his spear time to recon security rabbit holes.
 
 ### Find Me
 
