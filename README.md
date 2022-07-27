@@ -1,4 +1,5 @@
 ###  Thanks for stumbling upon my small stake of the Internet; I'm happy you're here.
+- ⚡ Fun fact: forgive my hairs if that really counts!
 
 ### About me
 
@@ -13,4 +14,4 @@ My name is Neelesh Patel. I'm active cybersecurity student who engages his spear
    **Proabably by OSINT || SOCMINT || Dorks || Shodan || The World of INTERNET**
     
 
-- ⚡ Fun fact: forgive my hairs if that really counts!
+
