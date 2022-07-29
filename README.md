@@ -1,5 +1,5 @@
 ###  Thanks for stumbling upon my small stake of the Internet; I'm happy you're here.
-- ⚡ Fun fact: forgive my hairs if that really counts!
+- ⚡ forgive my hairs if that really counts!
 
 ### About me
 
