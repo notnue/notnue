@@ -9,6 +9,7 @@ My name is Neelesh Patel. I'm an active Cyber Security Learner who spends his sp
 
    LinkedIn: https://www.linkedin.com/in/user-neeleshpatel <br>
    TryHackMe: https://tryhackme.com/p/cyberbreath <br>
+   Website: https://notnue.github.io <br>
    Medium: https://trysec.medium.com <br>
    
    **Proabably by OSINT || SOCMINT || Dorks || Shodan || The World of INTERNET**
