@@ -1,9 +1,10 @@
 ###  Thanks for stumbling upon my small stake of the Internet; I'm happy you're here.
 
 
+
 ### About me
 
-My name is Neelesh Patel. I'm an active Cyber Security Learner who spends his spare time exploring security rabbit holes that help him to get things done faster.
+My name is Neelesh Patel. I'm an active Cyber Security Learner who spends his spare time exploring security rabbit holes that help him to get things done faster. All I need is just my ten fingers and sometimes {coffee}, to talk to computers.
 
 ### Find Me
 
